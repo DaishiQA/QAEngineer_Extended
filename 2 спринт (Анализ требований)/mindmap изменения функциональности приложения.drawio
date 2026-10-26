@@ -1,0 +1,386 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36">
+  <diagram id="7bYfDr-sznIWWIKafMwo" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-37" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-38" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" value="Курьерский режим" vertex="1">
+          <mxGeometry height="32.68" width="80" x="-90" y="619.91" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-96" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="_QBsk_L2Zz1heBLSxn3K-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-97" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="_QBsk_L2Zz1heBLSxn3K-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="Расчёт стоимости" vertex="1">
+          <mxGeometry height="40.29" width="93" x="140" y="551.87" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="&lt;span&gt;Вид транспорта &quot;Каршеринг&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="416.86999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-121" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="693" y="285" />
+              <mxPoint x="693" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;span&gt;Вид транспорта &quot;Свой автомобиль&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-120" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="693" y="320" />
+              <mxPoint x="693" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;span&gt;Вид транспорта &quot;Самокат&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-117" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="693" y="392" />
+              <mxPoint x="693" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;font&gt;Вид транспорта &quot;Пешком&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="376.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-119" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="693" y="355" />
+              <mxPoint x="693" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;span&gt;Вид транспорта &quot;Велосипед&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="&lt;span&gt;Вид транспорта &quot;Такси&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="28.6" width="120" x="461" y="454.21000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-43" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-44" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="Панель переключения видов транспорта" vertex="1">
+          <mxGeometry height="40" width="120" x="140" y="392.32" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-98" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="_QBsk_L2Zz1heBLSxn3K-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-99" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="_QBsk_L2Zz1heBLSxn3K-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="Расчёт стоимости аренды" vertex="1">
+          <mxGeometry height="40" width="120" x="273" y="592.1600000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-73" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="Расходы на в&lt;span&gt;ид транспорта &quot;Свой автомобиль&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="273" y="511.87" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-101" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="_QBsk_L2Zz1heBLSxn3K-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span&gt;Вид транспорта &quot;Самокат&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="433" y="574.06" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-103" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" target="_QBsk_L2Zz1heBLSxn3K-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span&gt;Вид транспорта &quot;Велосипед&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="433" y="621.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-115" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="588" />
+              <mxPoint x="683" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" value="&lt;span&gt;2 руб. за км. (-3,5 руб. от базовой стоимости аренды)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="37.19" width="100" x="573" y="569.69" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-116" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="635" />
+              <mxPoint x="683" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" value="&lt;span&gt;1,5 руб. за км. (-1,5 руб. от базовой стоимости аренды)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="41.56" width="100" x="573" y="614.69" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-78" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="Расчёт стоимости" vertex="1">
+          <mxGeometry height="40" width="120" x="-360" y="552.1600000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-114" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="532" />
+              <mxPoint x="683" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=10;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" value="&lt;span&gt;10 руб. за км. (-10 руб. от базовой стоимости передвижения)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40.29" width="120" x="433" y="511.87" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" value="Сумма выгоды не начисляется" vertex="1">
+          <mxGeometry height="40" width="120" x="-360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-113" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WR_nVuBflKnaXEOwIVgW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="900" />
+              <mxPoint x="533" y="789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;strokeWidth=1;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Helvetica&quot;&gt;&lt;div class=&quot;notion-inline-code-container&quot; style=&quot;display: inline;&quot;&gt;&lt;span style=&quot;line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-radius: 4px; padding: 0.2em 0.4em; position: relative; bottom: 0.065em;&quot; data-token-index=&quot;0&quot; spellcheck=&quot;false&quot; class=&quot;notion-enable-hover&quot;&gt;Сумма выгоды рассчитывается по формуле L*(1+L*2)-L*Cost&lt;/span&gt;&lt;/div&gt;&amp;nbsp;рублей, где L - длина маршрута, а Cost - стоимость километра (сумма выгоды может быть отрицательной)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="300" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-89" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-90" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-91" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-92" edge="1" parent="1" source="_QBsk_L2Zz1heBLSxn3K-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WR_nVuBflKnaXEOwIVgW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QBsk_L2Zz1heBLSxn3K-193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" value="Панель отображения вида транспорта, стоимости и времени поездки" vertex="1">
+          <mxGeometry height="50" width="120" x="140" y="704.0600000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="WR_nVuBflKnaXEOwIVgW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;strokeWidth=0;" value="Отображение суммы выгоды (выгода может быть отрицательной)" vertex="1">
+          <mxGeometry height="37.81" width="120" x="300" y="770.16" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-10" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-11" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-12" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-13" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="Переключатель (чек-бокс) &quot;Режим курьер Выключен (Off)" vertex="1">
+          <mxGeometry height="53.75" width="80" x="-200" y="608.6" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-6" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-7" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="S7kx4O2pw9i-sN-aWmeE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-8" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DCEQspJ7LWwv_JSHIE7e-9" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=1;" value="Переключатель (чек-бокс) &quot;Режим курьер&quot; Включен (On)" vertex="1">
+          <mxGeometry height="53.75" width="80" x="17" y="609.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-55" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-56" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-57" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-58" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="Доступные виды транспорта" vertex="1">
+          <mxGeometry height="30" width="120" x="300" y="376.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-80" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-81" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="Недоступные виды транспорта" vertex="1">
+          <mxGeometry height="31.87" width="120" x="300" y="415.94" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-53" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-54" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ACh9Kso2YsqU5Mnpw1hu-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="Панель переключения видов транспорта" vertex="1">
+          <mxGeometry height="40" width="120" x="-360" y="392.32" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-67" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-68" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-69" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-70" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-71" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-72" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="Доступные виды транспорта" vertex="1">
+          <mxGeometry height="30" width="120" x="-520" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="Недоступные виды транспорта" vertex="1">
+          <mxGeometry height="31.87" width="120" x="-520" y="415.47" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-127" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="433" />
+              <mxPoint x="-690" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="&lt;span&gt;Вид транспорта &quot;Каршеринг&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-680" y="417.81" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-123" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="285" />
+              <mxPoint x="-690" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;span&gt;Вид транспорта &quot;Свой автомобиль&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-680" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-124" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="320" />
+              <mxPoint x="-690" y="694" />
+            </Array>
+            <mxPoint x="-519.9999999999998" y="700.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;span&gt;Вид транспорта &quot;Самокат&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-680" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-126" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="392" />
+              <mxPoint x="-690" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;font&gt;Вид транспорта &quot;Пешком&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-680" y="376.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-125" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="355" />
+              <mxPoint x="-690" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;span&gt;Вид транспорта &quot;Велосипед&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-680" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-128" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="ACh9Kso2YsqU5Mnpw1hu-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="471" />
+              <mxPoint x="-690" y="694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;strokeWidth=1;" value="&lt;span&gt;Вид транспорта &quot;Такси&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="28.6" width="120" x="-680" y="456.95" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-122" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="572" />
+              <mxPoint x="-540" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;strokeWidth=1;" value="Происходит как обычно (без учета скидок)" vertex="1">
+          <mxGeometry height="40" width="120" x="-520" y="551.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;strokeWidth=1;" value="Отображение стоимости поездки" vertex="1">
+          <mxGeometry height="27.81" width="120" x="300" y="732.35" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;strokeWidth=1;" value="Отображение времени поездки" vertex="1">
+          <mxGeometry height="22.81" width="120" x="300" y="697.35" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontSize=9;" value="Отображение наименования выбранного транспортного средства" vertex="1">
+          <mxGeometry height="40" width="120" x="300" y="650.16" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-104" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-105" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-106" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ACh9Kso2YsqU5Mnpw1hu-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" value="Панель отображения вида транспорта, стоимости и времени поездки" vertex="1">
+          <mxGeometry height="50" width="120" x="-360" y="707.6600000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;strokeWidth=1;" value="Отображение стоимости поездки" vertex="1">
+          <mxGeometry height="27.81" width="120" x="-520" y="756.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;strokeWidth=1;" value="Отображение времени поездки" vertex="1">
+          <mxGeometry height="22.81" width="120" x="-520" y="721.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontSize=9;" value="Отображение наименования выбранного транспортного средства" vertex="1">
+          <mxGeometry height="40" width="120" x="-520" y="674.06" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-111" edge="1" parent="1" source="ACh9Kso2YsqU5Mnpw1hu-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_QBsk_L2Zz1heBLSxn3K-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ACh9Kso2YsqU5Mnpw1hu-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" value="Начисление суммы выгоды" vertex="1">
+          <mxGeometry height="40" width="120" x="140" y="880" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

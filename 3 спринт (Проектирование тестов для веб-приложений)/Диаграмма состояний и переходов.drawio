@@ -1,0 +1,1174 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36" version="29.3.7">
+  <diagram name="Страница-1" id="iioCCIA_4VA8BeRn1F8z">
+    <mxGraphModel dx="3669" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-3" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LbJH4GrdqKvGsuoNy-Lu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-1" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-624.9200000000001" y="-700.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-6" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;fontColor=#00994D;" target="LbJH4GrdqKvGsuoNy-Lu-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=10;" value="&lt;font style=&quot;line-height: 100%;&quot;&gt;Ожидание корректного заполнения полей &quot;Откуда&quot; и &quot;Куда&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="-704.9200000000001" y="-650.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#00994D;fontSize=8;" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;: Корректно заполнить поле &quot;Откуда&quot; и &quot;Куда&quot;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="55.5" width="60" x="-672.4200000000001" y="-597.7500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-17" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="OWGDl912cK5O2wD1rpTl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-19" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=0.003;entryDx=0;entryDy=0;strokeColor=#00994D;entryPerimeter=0;" target="OWGDl912cK5O2wD1rpTl-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-284.91999999999996" y="-510.0000000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-35" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="OWGDl912cK5O2wD1rpTl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-614.9200000000001" y="-440.0000000000001" />
+              <mxPoint x="-974.9200000000001" y="-440.0000000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;span&gt;Ожидание выбора режима поездки &quot;Оптимальный&quot;, &quot;Быстрый&quot;, &quot;Свой&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="-684.9200000000001" y="-530.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор режима поездки &quot;Оптимальный&quot; или &quot;Быстрый&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="35.2" width="68" x="-682.9200000000001" y="-480.6500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор режима поездки &quot;Свой&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40.83" width="68.75" x="-354.91999999999996" y="-495.7400000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;resizeHeight=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор режима поездки &quot;Свой&quot;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;u style=&quot;text-align: left; color: light-dark(rgb(0, 0, 204), rgb(212, 212, 255)); background-color: transparent;&quot;&gt;Событие&lt;/u&gt;&lt;span style=&quot;text-align: left; color: light-dark(rgb(0, 0, 204), rgb(212, 212, 255)); background-color: transparent;&quot;&gt;: иконки выбора транспорта становятся активны&lt;/span&gt;" vertex="1">
+          <mxGeometry height="10" width="376.5" x="-774.9200000000001" y="-252.5000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-135" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF9933;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="375" />
+              <mxPoint x="-440" y="375" />
+            </Array>
+            <mxPoint x="-440" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-131" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.193;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#EA6B66;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="365" />
+              <mxPoint x="-231" y="365" />
+            </Array>
+            <mxPoint x="-409.95238095238096" y="335" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-138" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.305;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0066;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="405" />
+              <mxPoint x="111" y="405" />
+            </Array>
+            <mxPoint x="-169.95238095238096" y="335" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-139" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0066;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="405" />
+              <mxPoint x="-470" y="405" />
+            </Array>
+            <mxPoint x="-470" y="335.72000000000025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font&gt;Отображение формы добавление прав, ожидание заполнения данных (&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;имя, фамилию, дату рождения и номер водительского удостоверения). Все остальные панели не активны&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="-720" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-122" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="qjuW6XsoxhGWezKFRxRW-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ожидание заполнения всех обязательных полей в форме бронирования&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="-719.92" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-167" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontColor=#00994D;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Действие:&lt;/u&gt; тариф &quot;Повседневный&quot; выбран&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="165.05" x="-907.53" y="434.13" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-179" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontColor=#00994D;fontSize=8;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать кнопку &quot;Добавить права&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="-614.9200000000001" y="9.999999999999886" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-180" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt; корректное заполнение всех полей формы добавления прав&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-719.9999999999999" y="89.99999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-181" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="LbJH4GrdqKvGsuoNy-Lu-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span&gt;Отображение сообщения: &quot;Спасибо! Документы отправлены на проверку. Скоро расскажем о результатах&quot; и кнопки&amp;nbsp;&quot;Принято&quot;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="-715" y="184.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-186" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; Нажать кнопку &quot;Принято&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="77.52" x="-692.42" y="229.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-60" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00994D;strokeColor=#00994D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LbJH4GrdqKvGsuoNy-Lu-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-614.9200000000005" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-61" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" target="ZFOXHSzJh7PvanMTgfww-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-187" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" value="Отображение 30 секундного таймера в поле «Добавить права» " vertex="1">
+          <mxGeometry height="30" width="200" x="-714.92" y="259.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-207" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt; выбрать поле &quot;Способ оплаты&quot;&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="169.84" x="-269.84" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-4" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="sJCimQ4-G58GkJmfola2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-73" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.099;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00994D;" target="qjuW6XsoxhGWezKFRxRW-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="20" />
+            </Array>
+            <mxPoint x="290" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-12" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#FF0000;" target="OWGDl912cK5O2wD1rpTl-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbJH4GrdqKvGsuoNy-Lu-208" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Отображение окна &quot;Способ оплаты&quot;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;с возможностью привязать новую карту или выбрать уже привязанную (привязать можно несколько карт). Ожидание выбора способа оплаты&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="-174.92000000000002" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-2" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать на кнопку «Добавить карту»&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="100" x="-70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-7" edge="1" parent="1" source="sJCimQ4-G58GkJmfola2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="sJCimQ4-G58GkJmfola2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-79" edge="1" parent="1" source="sJCimQ4-G58GkJmfola2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Отображение окна &quot;Добавление карты&quot;, ожидание ввода корректных данных&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="-174.91999999999996" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-5" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; корректный ввод данных&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="75.08" x="-150" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-8" edge="1" parent="1" source="sJCimQ4-G58GkJmfola2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-210" y="270" />
+              <mxPoint x="-210" y="50" />
+            </Array>
+            <mxPoint x="-175" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;В окна &quot;Добавление карты&quot; кнопка &quot;Привязать&quot; становится активной&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="-174.91999999999996" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sJCimQ4-G58GkJmfola2-9" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать кнопку &quot;Привязать&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt; в окне &quot;Способ оплаты&quot; отображаются последние 4 цифры карты&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="80" x="-204.92000000000002" y="176.88" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#00994D;fontSize=8;" value="&lt;div&gt;&lt;font&gt;&lt;u&gt;Событие&lt;/u&gt;:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;система строит маршрут, под полями &quot;Откуда&quot; и &quot;Куда&quot; отображаются режимы поездки: &quot;Оптимальный&quot;, &quot;Быстрый&quot;, &quot;Свой&quot;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="-614.9200000000001" y="-597.7500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-13" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.791;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;" target="LbJH4GrdqKvGsuoNy-Lu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-39" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000CC;" target="OWGDl912cK5O2wD1rpTl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-724.9200000000001" y="-381.0000000000001" />
+              <mxPoint x="-724.9200000000001" y="-330.0000000000001" />
+              <mxPoint x="-854.9200000000001" y="-330.0000000000001" />
+              <mxPoint x="-854.9200000000001" y="-380.0000000000001" />
+              <mxPoint x="-873.9200000000001" y="-380.0000000000001" />
+            </Array>
+            <mxPoint x="-714.9200000000001" y="-360.6662500000001" as="sourcePoint" />
+            <mxPoint x="-874.9200000000001" y="-400.8872500000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-49" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000CC;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-614.9200000000001" y="-240.0000000000001" />
+              <mxPoint x="-333.91999999999996" y="-240.0000000000001" />
+            </Array>
+            <mxPoint x="-333.91999999999996" y="-330.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;span&gt;В режиме &quot;Оптимальный&quot; или &quot;Быстрый&quot; система выбрала вид транспорта &lt;b&gt;&lt;u&gt;не &quot;Каршеринг&quot;&lt;/u&gt;&lt;/b&gt;. О&lt;/span&gt;&lt;span&gt;тображение информации о поездке (вид транспорта, время поездки, стоимость)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="81.75" width="200" x="-714.9200000000001" y="-411.7500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-64" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;exitX=0.435;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.003;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" target="OWGDl912cK5O2wD1rpTl-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-244.91999999999996" y="-129.0000000000001" />
+            </Array>
+            <mxPoint x="-254.91999999999996" y="-170.0000000000001" as="sourcePoint" />
+            <mxPoint x="-444.91999999999996" y="-130.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-72" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="OWGDl912cK5O2wD1rpTl-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-54.92000000000007" y="-371.0000000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;span&gt;&lt;font&gt;Отображение информации режима &quot;Свой&quot;. Ожидание выбора вида транспортного средства&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="81.75" width="200" x="-354.91999999999996" y="-411.7500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-18" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;Событие&lt;/u&gt;: система автоматически выбирает вид транспорта (иконки выбора транспорта становятся не активны).&lt;/font&gt;" vertex="1">
+          <mxGeometry height="47.5" width="103.75" x="-614.9200000000001" y="-486.80000000000007" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-22" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#00994D;verticalAlign=middle;fontSize=8;" value="&lt;font&gt;&lt;u&gt;Событие&lt;/u&gt;: иконки выбора транспорта становятся активны&lt;/font&gt;" vertex="1">
+          <mxGeometry height="49.35" width="60" x="-284.91999999999996" y="-500.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-27" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;entryX=0.2;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.301;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" target="OWGDl912cK5O2wD1rpTl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1014.9200000000001" y="-310.0000000000001" />
+              <mxPoint x="-994.9200000000001" y="-310.0000000000001" />
+              <mxPoint x="-994.9200000000001" y="-250.0000000000001" />
+              <mxPoint x="-1124.92" y="-250.0000000000001" />
+              <mxPoint x="-1124.92" y="-310.0000000000001" />
+              <mxPoint x="-1034.92" y="-310.0000000000001" />
+            </Array>
+            <mxPoint x="-994.89" y="-330.0100000000001" as="sourcePoint" />
+            <mxPoint x="-1034.92" y="-320.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;resizeHeight=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;: изменение режима с &quot;Оптимальный&quot; на &quot;Быстрый&quot; и наоборот&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;Событие&lt;/u&gt;: система выбрала вид транспорта &lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt; (иконки выбора транспорта не активны)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.5" width="130" x="-1124.92" y="-310.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-41" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-914.9200000000001" y="-270.0000000000001" />
+              <mxPoint x="-684.9200000000001" y="-270.0000000000001" />
+              <mxPoint x="-684.9200000000001" y="-330.0000000000001" />
+            </Array>
+            <mxPoint x="-684.9200000000001" y="-330.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-63" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;entryX=-0.003;entryY=0.264;entryDx=0;entryDy=0;entryPerimeter=0;" target="OWGDl912cK5O2wD1rpTl-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-974.9200000000001" y="-130.0000000000001" />
+            </Array>
+            <mxPoint x="-764.9200000000001" y="-130.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;span&gt;В режиме &quot;Оптимальный&quot; или &quot;Быстрый&quot; система выбрала вид транспорта &lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt;. О&lt;/span&gt;&lt;span&gt;тображение информации о поездке (вид транспорта, время поездки, стоимость). Кнопка &quot;Забронировать&quot; доступна&lt;/span&gt;" vertex="1">
+          <mxGeometry height="81.75" width="200" x="-1074.92" y="-411.7500000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;resizeHeight=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;: изменение режима с &quot;Оптимальный&quot; на &quot;Быстрый&quot; и наоборот&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;Событие&lt;/u&gt;: система выбрала вид транспорта &lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt; (иконки выбора транспорта не активны)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="-854.9200000000001" y="-390.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;resizeHeight=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;: изменение режима с &quot;Оптимальный&quot; на &quot;Быстрый&quot; и наоборот&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;Событие&lt;/u&gt;: система выбрала вид транспорта &lt;u&gt;&lt;b&gt;не &quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt; (иконки выбора транспорта не активны)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="-912.4200000000001" y="-310.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;resizeHeight=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;: изменение режима с &quot;Оптимальный&quot; на &quot;Быстрый&quot; и наоборот&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;Событие&lt;/u&gt;: система выбрала вид транспорта &lt;b&gt;&lt;u&gt;не&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt; (иконки выбора транспорта не активны)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="220" x="-594.9200000000001" y="-312.5000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-44" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-534.92" y="-310.0000000000001" />
+              <mxPoint x="-374.91999999999996" y="-310.0000000000001" />
+              <mxPoint x="-374.91999999999996" y="-270.0000000000001" />
+              <mxPoint x="-594.9200000000001" y="-270.0000000000001" />
+              <mxPoint x="-594.9200000000001" y="-310.0000000000001" />
+              <mxPoint x="-554.92" y="-310.0000000000001" />
+            </Array>
+            <mxPoint x="-554.92" y="-330.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-48" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000CC;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-924.9200000000001" y="-240.0000000000001" />
+              <mxPoint x="-333.91999999999996" y="-240.0000000000001" />
+            </Array>
+            <mxPoint x="-333.91999999999996" y="-330.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontSize=8;fontColor=#0000CC;" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор режима поездки &quot;Оптимальный&quot; или &quot;Быстрый&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;u&gt;Событие&lt;/u&gt;: система выбрала вид транспорта&amp;nbsp;&lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt;&amp;nbsp;(иконки выбора транспорта не активны)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="390" x="-809.9200000000001" y="-230.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;resizeHeight=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор режима поездки &quot;Оптимальный&quot; или &quot;Быстрый&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;Событие&lt;/u&gt;: система выбрала вид транспорта &lt;u&gt;&lt;b&gt;не&amp;nbsp;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt; (иконки выбора транспорта не активны)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="-494.91999999999996" y="-400.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-56" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000CC;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-365.91999999999996" y="-381.0300000000001" />
+              <mxPoint x="-365.91999999999996" y="-330.0300000000001" />
+              <mxPoint x="-495.91999999999996" y="-330.0300000000001" />
+              <mxPoint x="-495.91999999999996" y="-380.0300000000001" />
+              <mxPoint x="-514.92" y="-380.0300000000001" />
+            </Array>
+            <mxPoint x="-354.91999999999996" y="-381.0300000000001" as="sourcePoint" />
+            <mxPoint x="-514.92" y="-380.0300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-58" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.643;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;" target="OWGDl912cK5O2wD1rpTl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-324.91999999999996" y="-210.0000000000001" />
+              <mxPoint x="-945.9200000000001" y="-210.0000000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-61" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#00994D;align=center;verticalAlign=middle;" value="&lt;u&gt;Действие&lt;/u&gt;: нажать кнопку &quot;Забронировать&quot;&lt;div&gt;&lt;u&gt;Событие&lt;/u&gt;:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;вместо панели с названиями режимов появится форма бронирования&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;(по умолчанию выбран тариф &quot;Повседневный&quot;, выпадающий список панели &quot;Требования к заказу&quot; свернут,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;поля &quot;Добавить права&quot; и &quot;Способ оплаты&quot; не заполнены&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="-974.9200000000001" y="-190.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-118" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;exitX=0.534;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" target="OWGDl912cK5O2wD1rpTl-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-605" y="-50" />
+              <mxPoint x="-2030" y="-50" />
+            </Array>
+            <mxPoint x="-609.9434782608696" y="-20.000000000000114" as="sourcePoint" />
+            <mxPoint x="-1509.9" y="79.99999999999989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-119" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00994D;strokeColor=#00994D;jumpStyle=none;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" target="OWGDl912cK5O2wD1rpTl-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1510" y="-50" />
+            </Array>
+            <mxPoint x="-875" y="-9.92307692307702" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-120" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00994D;strokeColor=#00994D;exitX=-0.006;exitY=0.688;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" target="OWGDl912cK5O2wD1rpTl-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-990" y="-49" />
+            </Array>
+            <mxPoint x="-990" y="-10" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-56" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="LbJH4GrdqKvGsuoNy-Lu-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-68" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="LbJH4GrdqKvGsuoNy-Lu-208">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-75" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Отображается форма бронирования.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Ожидание заполнения данных: выбор тарифа, информации о водительских правах, способ оплаты, требования к заказу. Кнопка «Забронировать» отображает текст &quot;Добавить права и забронировать&quot;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Выбранный тариф подсвечивается серым. Под ним расположен блок с деталями тарифа и информацией о ближайшей машине: марка, описание тарифа, время в пути от пункта &quot;Откуда&quot; до машины, время бесплатного ожидания, изображение машины, дополнительные параметры. По умолчанию система показывает точную стоимость поездки.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Система автоматически выбирает ближайшую к пользователю машину.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;На карте иконка ближайшей машины увеличивается, над ней появляется чёрная плашка с маркой машины.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Остальные свободные машины продолжают отображаться на карте в виде иконок. При этом показываются автомобили всех тарифов.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="290" x="-759.9200000000001" y="-180.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор вида транспорта &lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40.83" width="68.75" x="-314.91999999999996" y="-320.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;span&gt;&amp;nbsp;О&lt;/span&gt;&lt;span&gt;тображение информации о поездке (вид транспорта, время поездки, стоимость). Кнопка &quot;Забронировать&quot; доступна&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="-314.91999999999996" y="-270.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-68" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-244.91999999999996" y="-270.0000000000001" />
+            </Array>
+            <mxPoint x="-244.91999999999996" y="-270.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-75" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#00994D;" target="OWGDl912cK5O2wD1rpTl-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;О&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;тображение информации о поездке (вид транспорта, время поездки, стоимость)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="-134.91999999999996" y="-210.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор вида транспорта &quot;Каршеринг&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="-204.91999999999996" y="-190.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;выбор вида транспорта &lt;b style=&quot;&quot;&gt;&lt;u&gt;не &quot;Каршеринг&quot;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="-124.91999999999996" y="-314.59000000000015" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;resizeHeight=0;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font&gt;&lt;u&gt;Действие&lt;/u&gt;: изменение текущего вида транспорта на вид транспорта &quot;пешком&quot;, &quot;самокат&quot;, &quot;велосипед&quot;, &quot;автомобиль&quot; или &quot;такси&quot;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="-124.91999999999996" y="-144.12000000000012" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-78" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.424;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#0000CC;strokeColor=#0000CC;" target="OWGDl912cK5O2wD1rpTl-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-66.91999999999996" y="-150.0000000000001" />
+              <mxPoint x="-124.91999999999996" y="-150.0000000000001" />
+              <mxPoint x="-124.91999999999996" y="-110.00000000000011" />
+              <mxPoint x="15.079999999999927" y="-110.00000000000011" />
+              <mxPoint x="15.079999999999927" y="-150.0000000000001" />
+              <mxPoint x="-44.92000000000007" y="-150.0000000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-85" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.614;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;" target="OWGDl912cK5O2wD1rpTl-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-216.91999999999996" y="-110.00000000000011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-86" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;" target="OWGDl912cK5O2wD1rpTl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-984.9200000000001" y="-110.00000000000011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-87" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=8;verticalAlign=middle;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать кнопку &quot;Стрелка назад&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;(переход при условии, что режим поездки до перехода в форму бронирования был выбран &lt;b style=&quot;text-decoration-line: underline;&quot;&gt;&quot;Свой&quot;&lt;/b&gt;, а вид транспорта - &lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="189.92" x="-476.09" y="-105" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-88" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=8;verticalAlign=middle;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать кнопку &quot;Стрелка назад&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;(переход при условии, что режим поездки до перехода в форму бронирования был выбран &lt;u&gt;&lt;b&gt;&quot;Оптимальный&quot; или &quot;Быстрый&quot;&lt;/b&gt;&lt;/u&gt; и системой был выбран вид транспорта &lt;u&gt;&lt;b&gt;&quot;Каршеринг&quot;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="245" x="-1017.4200000000001" y="-110.00000000000011" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#FF0000;fontSize=8;" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Удалить адрес в поле &quot;Откуда&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt; время в пути от пункта &quot;Откуда&quot; до машины перестает отображаться&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); text-align: left;&quot;&gt;, а вместо точной стоимости поездки&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;отобразится стартовая цена за минуту.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94.94" width="97.5" x="-2017.5" y="14.120000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-96" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#00994D;align=center;verticalAlign=middle;" value="&lt;u&gt;Действие&lt;/u&gt;: нажать кнопку &quot;Забронировать&quot;&lt;div&gt;&lt;u&gt;Событие&lt;/u&gt;:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;вместо панели с названиями режимов появится форма бронирования&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;(по умолчанию выбран тариф &quot;Повседневный&quot;, выпадающий список панели &quot;Требования к заказу&quot; свернут,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;поля &quot;Добавить права&quot; и &quot;Способ оплаты&quot; не заполнены&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="-446.16999999999996" y="-190.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-32" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#CC6600;entryX=0.551;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" target="OWGDl912cK5O2wD1rpTl-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1990" y="290" />
+              <mxPoint x="-980" y="290" />
+              <mxPoint x="-980" y="160" />
+              <mxPoint x="-980" y="160" />
+            </Array>
+            <mxPoint x="-1834.9155172413793" y="145.69999999999982" as="sourcePoint" />
+            <mxPoint x="-1074.9155172413796" y="145.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-48" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#99004D;" target="OWGDl912cK5O2wD1rpTl-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1710" y="120" />
+              <mxPoint x="-1710" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-53" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#99004D;exitX=0.604;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" target="OWGDl912cK5O2wD1rpTl-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2009" y="325" />
+              <mxPoint x="-970" y="325" />
+            </Array>
+            <mxPoint x="-2009.9999999999995" y="155.6999999999996" as="sourcePoint" />
+            <mxPoint x="-1049.9999999999995" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-88" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;" target="qjuW6XsoxhGWezKFRxRW-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2250" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=7;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font&gt;&lt;font&gt;Отображение деталей тарифа &quot;Повседневный&quot; (&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;иконка автомобиля, название тарифа, цена)&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;и информации о ближайшей машине, выпадающий список панели &quot;Требования к заказу&quot; по умолчанию свернут.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="-2130" y="110.69999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-152" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC6600;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="OWGDl912cK5O2wD1rpTl-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1750" y="130.7" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-117" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=line;strokeColor=#00994D;strokeWidth=3;" target="LbJH4GrdqKvGsuoNy-Lu-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1500" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font&gt;Отображение деталей тарифа &quot;Походный&quot;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;иконка автомобиля, название тарифа, цена)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;и информации о ближайшей машине&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, выпадающий список панели &quot;Требования к заказу&quot; по умолчанию развернут.&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="-1610" y="109.99999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-111" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;" target="qjuW6XsoxhGWezKFRxRW-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1070" y="160" />
+              <mxPoint x="-1250" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=8;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font&gt;Отображение деталей тарифа &quot;Роскошный&quot;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;иконка автомобиля, название тарифа, цена)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;и информации о ближайшей машине,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;выпадающий список панели &quot;Требования к заказу&quot; по умолчанию развернут.&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="-1090" y="109.99999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-122" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="OWGDl912cK5O2wD1rpTl-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2020" y="10" />
+              <mxPoint x="-1920" y="10" />
+              <mxPoint x="-1920" y="110" />
+              <mxPoint x="-1930" y="110" />
+            </Array>
+            <mxPoint x="-1930" y="120.69999999999989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-138" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; выбор машины на карте из тарифа &quot;Повседневный&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;иконка машины увеличивается, над ней появляется чёрная плашка с маркой, а на левой панели — обновлённая информация о машине. Показываются автомобили всех тарифов.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="141.25" x="-1981.25" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-139" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;strokeColor=#0000CC;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1980" y="210" />
+              <mxPoint x="-1840" y="210" />
+              <mxPoint x="-1840" y="140" />
+            </Array>
+            <mxPoint x="-1977.5" y="149.9999999999999" as="sourcePoint" />
+            <mxPoint x="-1930" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-153" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#CC6600;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; Изменение тарифа&amp;nbsp; с &quot;Повседневный на &quot;Походный&quot; и наоборот через панель выбора тарифов&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="224.08" x="-1840" y="127.50000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-156" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC6600;startArrow=classic;startFill=1;" target="OWGDl912cK5O2wD1rpTl-116" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1330" y="129.9999999999999" as="sourcePoint" />
+            <mxPoint x="-1310" y="130.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-157" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontColor=#00994D;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; тариф &quot;Походный&quot; выбран&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="150" x="-900" y="397.9399999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-160" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontColor=#00994D;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; тариф &quot;Роскошный&quot; выбран&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="-900" y="345.88" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-185" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="LbJH4GrdqKvGsuoNy-Lu-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=9;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span&gt;Ожидание подтверждения ввода данных&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="20" width="200" x="-714.92" y="129.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-184" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="OWGDl912cK5O2wD1rpTl-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-186" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; Нажать кнопку &quot;Добавить&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="75" x="-692.42" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="OWGDl912cK5O2wD1rpTl-205" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;кнопка &quot;Добавить&quot; становится активной&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-619.92" y="89.99999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFOXHSzJh7PvanMTgfww-4" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;истечение 30 секунд, документы прошли верификацию&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="82.58" x="-700" y="292.85" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFOXHSzJh7PvanMTgfww-6" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;истечение 30 секунд, документы не прошли верификацию&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="84.95" x="-504.87" y="241.88" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFOXHSzJh7PvanMTgfww-12" edge="1" parent="1" source="ZFOXHSzJh7PvanMTgfww-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=line;strokeColor=#FF0000;fontColor=#FF0000;" target="LbJH4GrdqKvGsuoNy-Lu-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-321" y="200" />
+              <mxPoint x="-320" y="200" />
+              <mxPoint x="-320" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFOXHSzJh7PvanMTgfww-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;Рамка поля &quot;Добавить права&quot; подсвечивается красным, &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;появляется символ &quot;Красный крестик&quot;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="180.03" x="-410.55999999999995" y="249.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFOXHSzJh7PvanMTgfww-11" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; Нажать кнопку &quot;Добавить права&quot;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;u style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&lt;span style=&quot;&quot;&gt;Над формой — текст сообщения: «Ваши документы не прошли верификацию. Попробуйте ещё раз»&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: monospace; font-size: 0px; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontColor%3D%2300994D%3BfontSize%3D8%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3B%22%20value%3D%22%26lt%3Bfont%26gt%3B%26lt%3Bu%26gt%3B%26lt%3Bb%26gt%3B%D0%94%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%3A%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fu%26gt%3B%20%D0%9D%D0%B0%D0%B6%D0%B0%D1%82%D1%8C%20%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D1%83%20%26quot%3B%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%26quot%3B%26lt%3B%2Ffont%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2220%22%20width%3D%22100%22%20x%3D%22875%22%20y%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="70" x="-390" y="67.49999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#FF0000;fontSize=8;" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Удалить адрес в поле &quot;Куда&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); text-align: left;&quot;&gt;вместо точной стоимости поездки&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;отобразится стартовая цена за минуту.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69.97" width="77.5" x="-1600" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1519" y="30" />
+              <mxPoint x="-1600" y="30" />
+            </Array>
+            <mxPoint x="-1519" y="109.97" as="sourcePoint" />
+            <mxPoint x="-1600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-18" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=7;verticalAlign=middle;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; выбор тарифа&lt;span style=&quot;color: light-dark(rgb(0, 153, 77), rgb(40, 171, 106)); background-color: transparent;&quot;&gt;&amp;nbsp;&quot;Роскошный&quot;.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;Система автоматически выбирает ближайшую к пользователю машину. На карте иконка ближайшей машины увеличивается, над ней появляется чёрная плашка с маркой машины.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 153, 77), rgb(40, 171, 106)); background-color: transparent;&quot;&gt;Остальные свободные машины продолжают отображаться на карте в виде иконок. При этом показываются автомобили всех тарифов.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="64.12" width="195.94" x="-990" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-19" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=7;verticalAlign=middle;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; выбор тарифа&lt;span style=&quot;color: light-dark(rgb(0, 153, 77), rgb(40, 171, 106)); background-color: transparent;&quot;&gt;&amp;nbsp;&quot;Походный&quot;.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;Система автоматически выбирает ближайшую к пользователю машину. На карте иконка ближайшей машины увеличивается, над ней появляется чёрная плашка с маркой машины.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 153, 77), rgb(40, 171, 106)); background-color: transparent;&quot;&gt;Остальные свободные машины продолжают отображаться на карте в виде иконок. При этом показываются автомобили всех тарифов.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="64.12" width="195.94" x="-1503.1100000000001" y="-49.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-20" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=7;verticalAlign=middle;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; выбор тарифа&lt;span style=&quot;color: light-dark(rgb(0, 153, 77), rgb(40, 171, 106)); background-color: transparent;&quot;&gt;&amp;nbsp;&quot;Повседневный&quot;.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;Система автоматически выбирает ближайшую к пользователю машину. На карте иконка ближайшей машины увеличивается, над ней появляется чёрная плашка с маркой машины.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 153, 77), rgb(40, 171, 106)); background-color: transparent;&quot;&gt;Остальные свободные машины продолжают отображаться на карте в виде иконок. При этом показываются автомобили всех тарифов.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="64.12" width="201.86" x="-2030" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-25" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; выбор машины на карте из тарифа &quot;Походный&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;иконка машины увеличивается, над ней появляется чёрная плашка с маркой, а на левой панели — обновлённая информация о машине. Показываются автомобили всех тарифов.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="141.25" x="-1460.1100000000001" y="154.99" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;strokeColor=#0000CC;exitX=0.75;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1458.8600000000001" y="209.99" />
+              <mxPoint x="-1318.8600000000001" y="209.99" />
+              <mxPoint x="-1318.8600000000001" y="139.99" />
+            </Array>
+            <mxPoint x="-1458.8600000000001" y="150.99" as="sourcePoint" />
+            <mxPoint x="-1408.8600000000001" y="139.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-27" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; выбор машины на карте из тарифа &quot;Повседневный&quot;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;иконка машины увеличивается, над ней появляется чёрная плашка с маркой, а на левой панели — обновлённая информация о машине. Показываются автомобили всех тарифов.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="145.7" x="-939.76" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-28" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000CC;strokeColor=#0000CC;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="OWGDl912cK5O2wD1rpTl-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-940" y="210" />
+              <mxPoint x="-790" y="210" />
+              <mxPoint x="-790" y="140" />
+            </Array>
+            <mxPoint x="-934.0699999999999" y="151" as="sourcePoint" />
+            <mxPoint x="-884.0699999999999" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-30" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#CC6600;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; Изменение тарифа&amp;nbsp; с &quot;Походный и на &quot;Роскошный&quot; и наоборот через панель выбора тарифов&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="217.17" x="-1307.17" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-33" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=8;fontColor=#CC6600;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; Изменение тарифа&amp;nbsp; с &quot;Повседневный&quot; на &quot;Роскошный&quot; и наоборот через панель выбора тарифов&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="448.53" x="-1763.31" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#FF0000;fontSize=8;" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Удалить адрес в поле &quot;Куда&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); text-align: left;&quot;&gt;вместо точной стоимости поездки&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;отобразится стартовая цена за минуту.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69.97" width="77.5" x="-2118" y="34.980000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-35" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2037" y="29.98" />
+              <mxPoint x="-2118" y="29.98" />
+            </Array>
+            <mxPoint x="-2037" y="109.95" as="sourcePoint" />
+            <mxPoint x="-2118" y="109.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#FF0000;fontSize=8;" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Удалить адрес в поле &quot;Куда&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); text-align: left;&quot;&gt;вместо точной стоимости поездки&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;отобразится стартовая цена за минуту.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69.97" width="80" x="-1080" y="34.98" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-37" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;exitX=0.45;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1000" y="31" />
+              <mxPoint x="-1080" y="31" />
+            </Array>
+            <mxPoint x="-995.03" y="110.67" as="sourcePoint" />
+            <mxPoint x="-1080" y="111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#FF0000;fontSize=8;" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Удалить адрес в поле &quot;Откуда&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt; время в пути от пункта &quot;Откуда&quot; до машины перестает отображаться&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); text-align: left;&quot;&gt;, а вместо точной стоимости поездки&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;отобразится стартовая цена за минуту.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94.94" width="97.5" x="-1497.5" y="14.120000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-43" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1500" y="10" />
+              <mxPoint x="-1400" y="10" />
+              <mxPoint x="-1400" y="110" />
+              <mxPoint x="-1410" y="110" />
+            </Array>
+            <mxPoint x="-1500" y="110" as="sourcePoint" />
+            <mxPoint x="-1410" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;flipV=1;legacyAnchorPoints=0;flipH=1;container=0;fontColor=#FF0000;fontSize=8;" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Удалить адрес в поле &quot;Откуда&quot;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt; время в пути от пункта &quot;Откуда&quot; до машины перестает отображаться&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144)); text-align: left;&quot;&gt;, а вместо точной стоимости поездки&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;отобразится стартовая цена за минуту.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94.94" width="97.5" x="-977.5" y="15.200000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-45" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-980" y="11.079999999999998" />
+              <mxPoint x="-880" y="11.079999999999998" />
+              <mxPoint x="-880" y="111.08" />
+              <mxPoint x="-890" y="111.08" />
+            </Array>
+            <mxPoint x="-980" y="110" as="sourcePoint" />
+            <mxPoint x="-890" y="111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-47" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;fontColor=#99004D;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; смена машины с Тарифа &quot;Повседневный&quot; на тариф &quot;Походный&quot; и наоборот через карту&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;иконка машины увеличивается, над ней появляется чёрная плашка с маркой, а на левой панели — обновлённая информация о машине. Показываются автомобили всех тарифов.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="181.25" x="-1860" y="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-50" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#99004D;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-1330" y="120" as="sourcePoint" />
+            <mxPoint x="-1090" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-51" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;fontColor=#99004D;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; смена машины с Тарифа &quot;Походный&quot; на тариф &quot;Роскошный&quot; и наоборот через карту&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;иконка машины увеличивается, над ней появляется чёрная плашка с маркой, а на левой панели — обновлённая информация о машине. Показываются автомобили всех тарифов.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="181.25" x="-1340" y="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-52" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;fontColor=#99004D;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; смена машины с Тарифа &quot;Повседневный&quot; на тариф &quot;Роскошный&quot; и наоборот через карту&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;иконка машины увеличивается, над ней появляется чёрная плашка с маркой, а на левой панели — обновлённая информация о машине. Показываются автомобили всех тарифов.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="25" width="340" x="-1705.74" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-62" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;р&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;амка поля подсвечивается зелёным, у правого края внутри поля появляется зелёная галочка. Больше нельзя редактировать данные водительского удостоверения. Несколько водительских удостоверений добавить нельзя.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="97.15" width="114.92" x="-614.92" y="292.85" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-69" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt; в системе есть одна привязанная карта&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="40" y="34.980000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-75" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#0000CC;" target="sJCimQ4-G58GkJmfola2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-83" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#00994D;" target="LbJH4GrdqKvGsuoNy-Lu-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-26" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#FF0000;" target="OWGDl912cK5O2wD1rpTl-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-37" />
+              <mxPoint x="-165" y="-37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Отображение окна &quot;Способ оплаты&quot;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;с возможностью привязать новую карту, привязанная карта автоматически становится выбранной. Ожидание выбора способа оплаты.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-71" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;" target="qjuW6XsoxhGWezKFRxRW-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="40" />
+            </Array>
+            <mxPoint x="130" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-78" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;jumpStyle=line;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="sJCimQ4-G58GkJmfola2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="100" />
+              <mxPoint x="330" y="100" />
+            </Array>
+            <mxPoint x="40" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-84" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="410" />
+              <mxPoint x="-510" y="410" />
+            </Array>
+            <mxPoint x="-510" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-27" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#FF0000;" target="OWGDl912cK5O2wD1rpTl-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-37" />
+              <mxPoint x="-40" y="-37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Отображение окна &quot;Способ оплаты&quot;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;с возможностью привязать новую карту или выбрать уже привязанную. Ожидание выбора способа оплаты&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="390" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-74" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt; в системе есть две и более привязанных карт&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="180" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-76" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#0000CC;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать на кнопку «Добавить карту»&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="100" x="60" y="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-77" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 153, 77);&quot;&gt;&lt;b&gt;&lt;u&gt;Событие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;в системе нет ни одной привязанной карты&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="110" x="-184.92000000000002" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-80" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#0000CC;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать на кнопку «Добавить карту»&lt;/font&gt;" vertex="1">
+          <mxGeometry height="27.5" width="140" x="230" y="76.59" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-82" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#00994D;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt; нажать на кнопку выхода из формы &quot;Способ оплаты&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17.94" width="309.84" x="-314.91999999999996" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-85" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#00994D;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;выбрать одну из привязанных карт и нажать на кнопку выхода из формы &quot;Способ оплаты&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10.81" width="200" x="290" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-86" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;развернуть выпадающий список панели &quot;Требования к заказу&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="-2240" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-95" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF0000;" target="OWGDl912cK5O2wD1rpTl-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2260" y="121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=8;fontColor=#000000;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;В выпадающем списке&amp;nbsp;&lt;font style=&quot;background-color: transparent;&quot;&gt;отображается чекбокс &quot;Зарядка для телефона&quot;&amp;nbsp;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;и кнопка/гиперссылка &quot;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Светомузыка Доступно в тарифе «Роскошный»&quot;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="-2320" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-89" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;fontColor=#00994D;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&lt;span&gt;чекбокс &quot;Зарядка для телефона&quot; включен&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;система учитывает выбор для дальнейших расчетов&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="-2170" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-90" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2090" y="195" />
+              <mxPoint x="-2090" y="151" />
+            </Array>
+            <mxPoint x="-2090" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-91" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Действие:&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;&quot;&gt;чекбокс &quot;Зарядка для телефона&quot; выключен&lt;/span&gt;&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="160" x="-2230" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-92" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2230" y="290" />
+              <mxPoint x="-2070" y="290" />
+              <mxPoint x="-2070" y="151" />
+            </Array>
+            <mxPoint x="-2070" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-93" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2250" y="350" />
+              <mxPoint x="-960" y="350" />
+              <mxPoint x="-960" y="150" />
+            </Array>
+            <mxPoint x="-960" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-94" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Действие:&lt;/b&gt; свернуть выпадающий список панели &quot;Требования к заказу&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="-2250" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-97" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fontSize=8;fontColor=#00994D;" value="&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Действие:&lt;/b&gt;&amp;nbsp;нажать на&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;кнопкуа/гиперссылку&amp;nbsp; &quot;Светомузыка Доступно в тарифе «Роскошный»&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="350" x="-1715.74" y="336.43" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-103" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#00994D;" target="OWGDl912cK5O2wD1rpTl-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1510" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=8;fontColor=#000000;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;В выпадающем списке&amp;nbsp;&lt;font style=&quot;background-color: transparent;&quot;&gt;отображается счетчик &quot;Спрей от комаров&quot; (количество &amp;lt;=2 единиц) и счетчик &quot;Спальник&quot;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;(количество &amp;lt;=5 единиц)&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;&lt;span style=&quot;text-align: left; background-color: transparent;&quot;&gt;и кнопка/гиперссылка &quot;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Светомузыка Доступно в тарифе «Роскошный»&quot;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="55" width="180" x="-1760" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-99" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;jumpStyle=line;entryX=0.385;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="qjuW6XsoxhGWezKFRxRW-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1600" y="170" />
+              <mxPoint x="-1691" y="170" />
+            </Array>
+            <mxPoint x="-1600" y="140" as="sourcePoint" />
+            <mxPoint x="-1600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-100" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;выпадающий список панели &quot;Требования к заказу&quot; открыт автоматически&lt;/font&gt;" vertex="1">
+          <mxGeometry height="42.51" width="100.72" x="-1690.72" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-104" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;fontColor=#00994D;" value="&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Действие:&lt;/b&gt;&amp;nbsp;выбрать необходимое количество предметов в выпадающем списке&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;система учитывает выбор для дальнейших расчетов&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="70" x="-1580.73" y="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-105" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Действие:&lt;/b&gt; свернуть выпадающий список панели &quot;Требования к заказу&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17.5" width="110.73" x="-1580.73" y="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-106" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.709;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;strokeColor=#FF0000;jumpStyle=line;" target="OWGDl912cK5O2wD1rpTl-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1468" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=8;fontColor=#000000;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;В выпадающем списке&amp;nbsp;&lt;font style=&quot;background-color: transparent;&quot;&gt;отображается чекбокс &quot;Цветомузыка&quot;, радиокнопка &quot;Развлечься&quot; с с вариантами выбора &quot;Шампанское для пассажиров&quot; и &quot;Вино для пассажиров&quot; (можно выбрать только один из вариантов) и счетчик &quot;Очки для крутоты (количество &amp;lt;=3)&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="-1280" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-108" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;jumpStyle=line;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1860" y="242" />
+              <mxPoint x="-1860" y="350" />
+              <mxPoint x="-960" y="350" />
+              <mxPoint x="-960" y="151" />
+            </Array>
+            <mxPoint x="-960" y="151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-109" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fontSize=8;fontColor=#00994D;" value="&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Действие:&lt;/b&gt;&amp;nbsp;нажать на&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;кнопкуа/гиперссылку&amp;nbsp; &quot;Светомузыка Доступно в тарифе «Роскошный»&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="100" x="-1860" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-110" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;" value="&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;выпадающий список панели &quot;Требования к заказу&quot; открыт автоматически&lt;/font&gt;" vertex="1">
+          <mxGeometry height="42.51" width="95.64" x="-1246.4099999999999" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-113" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=7;fontColor=#00994D;" value="&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Действие:&lt;/b&gt;&amp;nbsp;выбрать необходимое количество предметов и услуги в выпадающем списке&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;система учитывает выбор для дальнейших расчетов&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="87.49" width="68.03" x="-1070" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-114" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00994D;" target="OWGDl912cK5O2wD1rpTl-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1175" y="280" />
+              <mxPoint x="-999" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-115" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.203;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" target="OWGDl912cK5O2wD1rpTl-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1140" y="190" />
+              <mxPoint x="-1050" y="190" />
+              <mxPoint x="-1050" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-116" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Действие:&lt;/b&gt; свернуть выпадающий список панели &quot;Требования к заказу&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17.5" width="110.73" x="-1158.75" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-118" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.078;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#00994D;strokeWidth=3;jumpStyle=line;" target="LbJH4GrdqKvGsuoNy-Lu-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2030" y="450" />
+              <mxPoint x="-703" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-119" edge="1" parent="1" source="OWGDl912cK5O2wD1rpTl-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.069;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00994D;strokeWidth=3;" target="LbJH4GrdqKvGsuoNy-Lu-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-950" y="370" />
+              <mxPoint x="-705" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-120" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Все обязательные поля формы бронирования заполнены корректно, нажать кнопку &quot;Забронировать&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="82.58" x="-694.95" y="434.13" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-129" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#00994D;strokeColor=#00994D;" target="qjuW6XsoxhGWezKFRxRW-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-136" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" target="qjuW6XsoxhGWezKFRxRW-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-121" parent="1" style="rounded=1;whiteSpace=wrap;fontSize=12;" value="Отображение сообщения «Машина забронирована» с иконкой машины и информацией о ее марке, номере,  и адресе машины,  Также отображается стоимость поездки и таймер, который отсчитывает время бесплатного ожидания. &#xa;Если поля «Откуда» и «Куда» заполнены, отображается точная стоимость поездки. Если нет - стоимость за минуту." vertex="1">
+          <mxGeometry height="130" width="250" x="-740" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-123" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;не все обязательные поля формы бронирования заполнены корректно, кнопка &quot;Забронировать&quot; содержит сообщение о необходимости заполнить соответствующее поле&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55.87" width="131.21" x="-601.13" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-124" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.572;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#FF0000;" target="LbJH4GrdqKvGsuoNy-Lu-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-600" y="434" />
+              <mxPoint x="-600" y="490" />
+              <mxPoint x="-470" y="490" />
+              <mxPoint x="-470" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-126" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Таймер начинает отсчитывать время бесплатного ожидания. Время бесплатного ожидания не истекло.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="127.66" x="-870.14" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Ожидание подтверждения бесплатной отмены заказа&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-1000" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-130" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;нажатие кнопки &quot;Отмена заказа&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="-1019.76" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Qh90U27hdnwelQelouRq-4" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="Qh90U27hdnwelQelouRq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Отображение сообщения &quot;Вы уверены, что хотите отменить поездку?&quot; и кнопки &quot;Да&quot; и &quot;Нет&quot;. Ожидание принятия решения.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="-1040" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-132" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00994D;" target="qjuW6XsoxhGWezKFRxRW-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-134" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Таймер начинает отсчитывать время бесплатного ожидания. Время бесплатного ожидания истекло.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="127.66" x="-490" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Таймер начинает отсчитывать время пользования каршерингом&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="170.53" x="-360.53" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-138" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=5;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-624.92" y="829.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-139" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.678;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;" target="qjuW6XsoxhGWezKFRxRW-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-760" y="665" />
+              <mxPoint x="-760" y="598" />
+            </Array>
+            <mxPoint x="-390" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjuW6XsoxhGWezKFRxRW-140" edge="1" parent="1" source="qjuW6XsoxhGWezKFRxRW-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-275" y="810" />
+              <mxPoint x="-615" y="810" />
+            </Array>
+            <mxPoint x="-615" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qh90U27hdnwelQelouRq-1" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;нажатие кнопки &quot;Да&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="-1017.42" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Qh90U27hdnwelQelouRq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p id=&quot;b_98666_3a9a7385a774&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Отображение сообщения &quot;Поездка отменена &quot; и кнопки &quot;Принято&quot;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="-1040" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Qh90U27hdnwelQelouRq-5" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;нажатие кнопки &quot;Принято&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="-1019.76" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="Qh90U27hdnwelQelouRq-8" edge="1" parent="1" source="Qh90U27hdnwelQelouRq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-935" y="810" />
+              <mxPoint x="-615" y="810" />
+            </Array>
+            <mxPoint x="-615" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qh90U27hdnwelQelouRq-9" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Действие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;нажатие кнопки &quot;Нет&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="-820" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Qh90U27hdnwelQelouRq-11" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#00994D;fontSize=8;align=center;verticalAlign=middle;" value="&lt;font&gt;&lt;u&gt;&lt;b&gt;Событие:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;Система отменяет поездку&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="-920" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-3" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.895;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;flowAnimation=1;" target="LbJH4GrdqKvGsuoNy-Lu-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840" y="70" />
+              <mxPoint x="-840" y="120" />
+              <mxPoint x="-740" y="120" />
+              <mxPoint x="-740" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-4" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Отмена&quot;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Событие:&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-839.92" y="70.7" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="-1770" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-6" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fillColor=none;strokeColor=#FF0000;fontSize=10;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. В требованиях не описано поведение системы при переходе по кнопкам &quot;Отмена&quot; и &quot;Серый крестик&quot; в форме заполнения прав. Также непонятно в чем различие по функционалу между этими кнопками.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="540" x="-1740" y="-215" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="-770" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-8" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Серый крестик&quot;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Событие:&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-839.92" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-9" edge="1" parent="1" source="LbJH4GrdqKvGsuoNy-Lu-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;flowAnimation=1;" target="LbJH4GrdqKvGsuoNy-Lu-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840" y="65" />
+              <mxPoint x="-840" y="20" />
+              <mxPoint x="-740" y="20" />
+              <mxPoint x="-740" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="-762.48" y="39.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-11" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Серый крестик&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-290" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-13" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Отмена&quot;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Событие:&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-30" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-14" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Серый крестик&quot;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Событие:&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="15.079999999999998" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-15" edge="1" parent="1" source="sJCimQ4-G58GkJmfola2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.825;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.925;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;flowAnimation=1;" target="sJCimQ4-G58GkJmfola2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="190" />
+              <mxPoint x="120" y="190" />
+              <mxPoint x="120" y="150" />
+              <mxPoint x="10" y="150" />
+            </Array>
+            <mxPoint x="10" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-16" edge="1" parent="1" source="sJCimQ4-G58GkJmfola2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.725;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.602;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;flowAnimation=1;" target="sJCimQ4-G58GkJmfola2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="200" />
+              <mxPoint x="90" y="200" />
+              <mxPoint x="90" y="240" />
+              <mxPoint x="-54" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="95.08" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="40" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="-1770" y="-169.12" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-20" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fillColor=none;strokeColor=#FF0000;fontSize=10;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2. В требованиях не описано поведение системы при переходе по кнопкам &quot;Отмена&quot; и &quot;Серый крестик&quot; в форме добавления карты. Также непонятно в чем различие по функционалу между этими кнопками.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="540" x="-1740" y="-174.12" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-21" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Серый крестик&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="90" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-23" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Серый крестик&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="320" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-28" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Отмена&quot;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Событие:&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-200" y="296.42999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-29" parent="1" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=8;fontColor=#FF0000;" value="&lt;font&gt;&lt;b&gt;&lt;u&gt;Действие:&lt;/u&gt;&lt;/b&gt;&amp;nbsp;нажать кнопку &quot;Серый крестик&quot;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Событие:&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-60" y="296.43" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.576;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;flowAnimation=1;" target="sJCimQ4-G58GkJmfola2-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="290" />
+              <mxPoint x="-40" y="300" />
+              <mxPoint x="40" y="300" />
+              <mxPoint x="40" y="340" />
+              <mxPoint x="-60" y="340" />
+            </Array>
+            <mxPoint x="-40" y="290" as="sourcePoint" />
+            <mxPoint x="10.080000000000013" y="290.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-31" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.377;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;flowAnimation=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-119" y="300" />
+              <mxPoint x="-200" y="300" />
+              <mxPoint x="-200" y="340" />
+              <mxPoint x="-100" y="340" />
+              <mxPoint x="-100" y="292" />
+            </Array>
+            <mxPoint x="-119.53999999999998" y="291.5100000000001" as="sourcePoint" />
+            <mxPoint x="-100" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="-124.92" y="316.42999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="15.079999999999998" y="317.85" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="-987.42" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=3;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="20" x="-1770" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="jEhHuxQBKX1LJHqCtEdh-37" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fillColor=none;strokeColor=#FF0000;fontSize=10;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3. В требованиях не описано поведение системы при переходе по кнопке &quot;Принято&quot; в сообщении &quot;Поездка отменена&quot;.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="540" x="-1740" y="-135" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
